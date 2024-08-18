@@ -256,6 +256,8 @@ int main()
 
       - auto - this keyword is used to avoid writing long and complex data type. When you use auto the compiler gusses the datatype for you.
 
+      - auto - it tells the compiler to infer the type of an expression and use that as the type for our variable.
+
   */
 
   /*
